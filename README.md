@@ -7,10 +7,7 @@ A RESTful API for a shopping cart system where multiple users can purchase produ
 - [Overview](#overview)
 - [Technologies](#technologies)
 - [Installation](#installation)
-- [Usage](#usage)
-- [API Endpoints](#api-endpoints)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Overview
 
